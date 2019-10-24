@@ -1,7 +1,17 @@
-.navbar {
-  padding-left: 100px;
-  padding-right: 100px;
-}
+
 .jumbotron {
   margin-top: 25px;
+}
+
+.card-top {
+    height: 200px;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+.skills img.card-img-top {
+    width: auto;
+    height: 70%;
 }
